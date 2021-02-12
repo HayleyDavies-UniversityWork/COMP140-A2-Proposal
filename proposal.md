@@ -6,5 +6,5 @@ The game and controller I am setting out to make revolve around the usage of an 
 ### Concept
 The intital concept started with the fact I have an old, spare flask which is broken. With this, I felt I could use an Accelerometer and Gyroscope to check the orientation of the flask, along with if its being shaken.
 
-![A top-down image of the flask](/img/flask-0.jpg)
-![A side-view image of the flask](/img/flask-1.jpg)
+![A top-down image of the flask](./img/flask-0.jpg)
+![A side-view image of the flask](./img/flask-1.jpg)
